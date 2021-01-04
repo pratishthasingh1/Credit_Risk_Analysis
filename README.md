@@ -1,7 +1,7 @@
-Overview: 
+## Overview: 
 A credit risk analysis was conducted to determine if someone qualifies for a loan or not. 6 machine learning models were used against data to see which yields the most accurate results. Using Python and SKLearn and Imbalanced Learn softwares in Jupyter Notebook, data was oversampled and undersampled to determine balance accuracy scores, precision and recall. 
 
-Results:
+## Results:
 1. Naive Random Oversampling: 
 * balanced accuracy scores 65.58%
 * precision 99%
@@ -32,6 +32,6 @@ Results:
 * precision 99%
 * recall scores 94%
 
-Summary: 
+## Summary: 
 * Results of machine learning models: Overall, it seems the most accurate models are the ensemble learners -- Balanced Random Forest Classifer and AdaBoost Classifer. Both machine learning models have a high balanced accuracy score as well as a high precision and recall scores. 
 * Out of the two, I would recommend using the balanced random forest classifer as that one is the most accurate out of all the models used. 
